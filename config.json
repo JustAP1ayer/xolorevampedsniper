@@ -1,0 +1,14 @@
+{
+    "global_max_price": 0,
+    "searcherv2_threads": 1,
+    "antiratelimit": {
+        "v1_wait_time": 1,
+        "v2_max_requests_per_minute": 1000,
+        "v2_safe_multiplier": 1.25
+    },
+    "cookies": {
+        "search_cookie": "_|WARNING:-DO-NOT-SHARE-THIS.--Sharing-this-will-allow-someone-to-log-in-as-you-and-to-steal-your-ROBUX-and-items.|",
+        "buy_cookie": "_|WARNING:-DO-NOT-SHARE-THIS.--Sharing-this-will-allow-someone-to-log-in-as-you-and-to-steal-your-ROBUX-and-items.|"
+    },
+    "items": [123456789]
+}
